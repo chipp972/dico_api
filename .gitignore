@@ -1,0 +1,47 @@
+# Compiled source #
+###################
+*.dll
+*.exe
+*.o
+*.so
+*.a
+*.so.*
+*.out
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.war
+*.ear
+*.rar
+*.tar
+*.zip
+
+# Logs, data and databases #
+############################
+*.log
+*.out
+*.sqlite
+*.xml
+
+# OS and IDE generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+*.swp
+.remote-sync.json
+
+# Precompiled Headers #
+#######################
+*.gch
+*.pch
